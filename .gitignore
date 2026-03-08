@@ -1,0 +1,3 @@
+*.pyc
+src/log/aoe_log.txt
+src/log/combat_log.txt
